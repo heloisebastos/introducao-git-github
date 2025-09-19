@@ -9,13 +9,16 @@ Este guia apresenta uma introdução a práticas recomendadas para começar a us
 ### Git
 - Git é um **sistema de controle de versão distribuído**.  
 - Cada desenvolvedor mantém uma cópia completa do repositório localmente.  
-- Permite rastrear alterações, criar ramificações (branches) etc.  
+- Permite rastrear alterações, criar ramificações (branches) etc. 
+
+![Imagem1](imagem1.png)
 
 ### GitHub
 - Plataforma de hospedagem de repositórios Git remotos.  
 - Adiciona funcionalidades colaborativas como *pull requests*, *issues* e revisão de código.  
 - Facilita o trabalho em equipe em projetos distribuídos.  
 
+![Imagem2](imagem2.png)
 
 ---
 
@@ -109,6 +112,8 @@ dev → branch de integração (desenvolvimento)
 
 feature/* → branches de funcionalidades específicas (nova funcionalidade ou correção de bug)
 
+![Imagem4](imagem4.svg)
+
 ---
 
 ## 6. Recomendação
@@ -153,3 +158,5 @@ Quando a feature estiver pronta:
 - [Pro Git Book Português](https://git-scm.com/book/pt-br/v2)
 - [Documentação Github](https://docs.github.com/pt)
 - [Gitflow Workflow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow)
+
+
